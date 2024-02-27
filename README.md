@@ -1,6 +1,6 @@
 ## Hello Word👋, I'm Kaique
 
-Em constante busca pelo conhecimento cibernético, um commit de cada vez. 
+Em constantemente busca pelo conhecimento cibernético. 
 
 📚👨‍💻Atualmente cursando Análise e Desenvolvimento de Sistemas.</br>
 🛡️💻 AprendendoCibersegurança.
