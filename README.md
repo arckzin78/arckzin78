@@ -4,7 +4,7 @@ Em constantemente busca pelo conhecimento cibernético.
 
 📚👨‍💻Atualmente cursando Análise e Desenvolvimento de Sistemas.</br>
 🛡️💻 AprendendoCibersegurança.
-<hr>
+
 
 ## Most Used Languages
 <div style="display: inline_block">
@@ -15,7 +15,7 @@ Em constantemente busca pelo conhecimento cibernético.
   <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
-<hr>
+
 
 ## Redes Sociais
 
